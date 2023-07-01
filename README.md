@@ -2,6 +2,8 @@
 by micbed86 
 - https://github.com/micbed86/BingChatOptions
 
+## Screenshot:
+<img src="https://host398815.xce.pl/drive/img/img3958.png" alt="BingChatOptions">
 
 ## Description:
 
