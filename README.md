@@ -12,7 +12,7 @@ by micbed86
 
 ## HOW TO USE IT
 
-Thanks to this extension, you can easily extend the character limit of the Bing Chat input field to 20,000 characters and prevent accidental scrolling away of the chat window. Normally, the Bing Chat input field has a character limit and the chat window can accidentally scroll away. With this extension, you can change these settings by clicking on the extension’s icon. A nice little menu will appear, giving you two options: “Extend character limit to 20,000” and “Prevent accidental scrolling away”. Simply click on one of these options to toggle them on or off. The changes will take effect immediately after realoading the chat page. Enjoy your enhanced Bing Chat experience! 😊
+Thanks to this extension, you can easily extend the character limit of the Bing Chat input field to 20,000 characters and prevent accidental scrolling away of the chat window. Normally, the Bing Chat input field has a character limit and the chat window can accidentally scroll away. With this extension, you can change these settings by clicking on the extension’s icon. A nice little menu will appear, giving you two options: “Extend character limit to 20,000” and “Prevent accidental scrolling away”. Simply click on one of these options to toggle them on or off. The changes will take effect immediately after reloading the chat page. Enjoy your enhanced Bing Chat experience! 😊
 
 ## INSTALLATION MANUAL
 
